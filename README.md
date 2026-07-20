@@ -10,4 +10,6 @@ Analysis is done with 2 files:
 1) HTML-data for the analysis is scraped from official site with info on voting (Constituencies-scraping.py).
 2) Parsing and calculations (Constituencies-parsing.py).
 
-Both python-files are available in the rep.
+Both python-files are available in the rep along with results described in more detail and illustrations. 
+
+A question came about related to the party splits. In particular one of the old parties Venstre lost some leading politicians who founded new parties. Question is whether the sum of votes for these parties are as geographically skedew/unskewed as the old party was before the splits. The chart 'Old and new parties.png' indicates an answer, not a clear cut one though. Write me for further explanation, code to do the calculations or whatever comes to mind raising question about.
