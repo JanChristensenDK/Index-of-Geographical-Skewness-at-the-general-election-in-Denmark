@@ -7,7 +7,7 @@ The question arises when elections are coming up. Also, at the most recent elect
 https://www.linkedin.com/feed/update/urn:li:activity:7444483789684256768/
 
 Analysis is done with 2 files:
-1) HTML-data for the analysis is scraped from official site with info on voting (Valgkreds-scraping.py).
-2) Parsing and calculations (Valgkredse-parsing.py).
+1) HTML-data for the analysis is scraped from official site with info on voting (Constituencies-scraping.py).
+2) Parsing and calculations (Constituencies-parsing.py).
 
 Both python-files are available in the rep.
